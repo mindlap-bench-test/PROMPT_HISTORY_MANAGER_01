@@ -8,3 +8,4 @@ node_modules/
 *.log
 dist/
 build/
+.mindlap/config.json
